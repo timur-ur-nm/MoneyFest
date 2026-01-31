@@ -1,7 +1,7 @@
 # MoneyFest — Landing Page
 
-**MoneyFest** is a fully responsive one-page landing website built with **Next.js**.  
-It showcases a clean, modern design with smooth navigation and adaptive layout for all screen sizes.
+**MoneyFest** is a fully responsive one-page landing website.  
+It features a clean and modern design with smooth navigation and adaptive layout for all devices.
 
 ---
 
@@ -10,7 +10,7 @@ It showcases a clean, modern design with smooth navigation and adaptive layout f
 - Fully responsive design for desktop, tablet, and mobile  
 - Smooth scrolling between sections  
 - Modern UI components with accessibility in mind  
-- Built with **Next.js**, **React**, and **Tailwind CSS**  
+- Built with **HTML, CSS, and JavaScript**  
 - Optimized for performance and fast loading
 
 ---
@@ -19,12 +19,12 @@ It showcases a clean, modern design with smooth navigation and adaptive layout f
 
 ### Prerequisites
 
-- Node.js (v18 or higher recommended)  
-- npm or yarn  
+- Any modern browser  
+- Local server (optional for live reload)
 
 ### Installation
 
-Clone the repository:
+Clone or download the repository:
 
 ```bash
 git clone https://github.com/USERNAME/moneyfest.git
